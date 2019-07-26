@@ -1,0 +1,13 @@
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\bin\Debug\Caller Log App.exe.config
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\bin\Debug\Caller Log App.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\bin\Debug\Caller Log App.pdb
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csprojAssemblyReference.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller_Log_App.callerLogApp.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller_Log_App.Properties.Resources.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csproj.GenerateResource.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csproj.CoreCompileInputs.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.pdb
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\bin\Debug\en-GB\Caller Log App.resources.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller_Log_App.callerLogApp.en-GB.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\en-GB\Caller Log App.resources.dll
