@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Caller_Log_App
+namespace Call_Logging_Tool
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace Caller_Log_App
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new callerLogApp());
+            Application.Run(new CallLoggingTool());
         }
     }
 }

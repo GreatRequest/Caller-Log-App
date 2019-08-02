@@ -11,3 +11,36 @@ O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj
 O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\bin\Debug\en-GB\Caller Log App.resources.dll
 O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\Caller_Log_App.callerLogApp.en-GB.resources
 O:\OneDrive\USER PROFILE\Documents\Projects\Caller Log App C#\Caller Log App\obj\Debug\en-GB\Caller Log App.resources.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\MySql.Data.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Google.Protobuf.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\BouncyCastle.Crypto.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\MySql.Data.xml
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csprojAssemblyReference.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csproj.GenerateResource.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csproj.CoreCompileInputs.cache
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Caller Log App.csproj.CopyComplete
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Call Logging Tool.exe.config
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Call Logging Tool.exe.manifest
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Call Logging Tool.application
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Call Logging Tool.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Call Logging Tool.pdb
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\en-GB\Call Logging Tool.resources.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\Microsoft.CSharp.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Data.DataSetExtensions.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Data.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Deployment.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Drawing.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Net.Http.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Windows.Forms.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Xml.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\bin\Debug\System.Xml.Linq.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call_Logging_Tool.CallLoggingTool.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call_Logging_Tool.Properties.Resources.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call_Logging_Tool.CallLoggingSearch.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call_Logging_Tool.CallLoggingTool.en-GB.resources
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\en-GB\Call Logging Tool.resources.dll
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call Logging Tool.exe.manifest
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call Logging Tool.application
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call Logging Tool.exe
+O:\OneDrive\USER PROFILE\Documents\Projects\C#\Caller Log App C#\Caller Log App\obj\Debug\Call Logging Tool.pdb
